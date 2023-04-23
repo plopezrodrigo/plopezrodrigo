@@ -1,16 +1,30 @@
-### Hi there 👋
+### Hi there, my name is Patricia 👋
 
-<!--
-**plopezrodrigo/plopezrodrigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I´m a Woman, Mother, Product Owner and Developer!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently seeking for a work opportunity.
+- 🌱 I’m currently learning everything I can.
+- 👯 I’m looking to collaborate with other full stack developers.
+- 🤔 I’m looking for help with develop new projects.
+- 💬 Ask me about agile project management and UX.
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I love to climb, do crossfit and read.
 -->
+
+### Connect with me:
+ 📫 patricia.lopez.rodrigo@gmail.com
+    https://www.linkedin.com/in/patricialopezrodrigo/
+    https://twitter.com/PatriP_Lop
+
+<br />
+
+### Languages and tools:
+- HTML5
+- CSS3
+- JavaScript
+- React
+- SQL
+- Phyton
+- Flask
+- SQL - Alchemy
+- Git
